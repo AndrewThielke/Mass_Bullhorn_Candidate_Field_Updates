@@ -65,8 +65,6 @@ Your CSV file should be structured with columns representing different skills da
 | 001         | X, Y, Z  | No     | X, Z, W, Q   | ... |
 | 002         | X    | X, Y, Z     | A     | ... |
 
-*Note: 1's are "Yes" & 0's are "No".*
-
 ## Contributing
 
 Contributions are welcome!
