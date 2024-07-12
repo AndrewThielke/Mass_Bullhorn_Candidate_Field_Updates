@@ -1,0 +1,33 @@
+{
+    "type": "array",
+    "items": {
+      "type": "object",
+      "properties": {
+        "Basic Information": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "Industry Experience": {
+          "type": "string"
+        },
+        "Domains": {
+          "type": "string"
+        },
+        "Standards": {
+          "type": "string"
+        },
+        "Skills": {
+          "type": "string"
+        },
+        "Languages": {
+          "type": "string"
+        },
+        "Tools": {
+          "type": "string"
+        }
+      },
+      "required": ["Basic Information", "Industry Experience", "Domains", "Standards", "Skills", "Languages", "Tools"]
+    }
+}  
