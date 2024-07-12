@@ -50,7 +50,7 @@ The **Skills Matrix** is a Python-based solution designed to streamline the proc
 
 2. **Run the script:**
     ```bash
-    python skills_matrix.py
+    python candidate_update.py
     ```
 
 3. **Monitor the process:**
