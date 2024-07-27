@@ -60,12 +60,10 @@ The **Skills Matrix** is a Python-based solution designed to streamline the proc
 
 Your CSV file should be structured with columns representing different skills data fields. Here is an example format:
 
-| Employee ID | Skill 1 | Skill 2 | Skill 3 | ... |
+| Employee ID | Domains | Skills | Tools | ... |
 |-------------|---------|---------|---------|-----|
-| 001         | 1  | 0     | 0   | ... |
-| 002         | 0    | 1     | 0     | ... |
-
-*Note: 1's are "Yes" & 0's are "No".*
+| 001         | X, Y, Z  | No     | X, Z, W, Q   | ... |
+| 002         | X    | X, Y, Z     | A     | ... |
 
 ## Contributing
 
